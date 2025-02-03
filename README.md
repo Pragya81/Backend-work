@@ -6,13 +6,13 @@ Here’s the merged README.md file with both the setup and Docker instructions, 
 This backend project includes a FAQ system built using Node.js, Express, MongoDB, and AdminJS for managing FAQs via API and an admin panel. This project provides endpoints for creating, fetching, and deleting FAQs. It also includes an admin interface for easier management.
 
 ## Table of Contents
-- [Installation Steps](#installation-steps)
-- [API Usage Examples](#api-usage-examples)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Git & Version Control](#git--version-control)
-- [Docker Deployment](#docker-deployment)
-- [Heroku Deployment](#heroku-deployment-optional)
-- [License](#license)
+- Installation Steps
+- API Usage Examples
+- Contribution Guidelines
+- Git & Version Control
+- Docker Deployment
+- Heroku Deployment
+- License
 
 ---
 
