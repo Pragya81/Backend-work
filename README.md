@@ -10,10 +10,10 @@ Set up an Express backend with AdminJS for managing FAQs. Implemented CRUD API r
 This backend project includes a FAQ system built using Node.js, Express, MongoDB, and AdminJS for managing FAQs via API and an admin panel. This project provides endpoints for creating, fetching, and deleting FAQs. It also includes an admin interface for easier management.
 
 ## Table of Contents
-- [Installation Steps]
-- [API Usage Examples]
-- [Contribution Guidelines]
-- [Git & Version Control]
+- Installation Steps
+- API Usage Examples
+- Contribution Guidelines
+- Git & Version Control
 
 ---
 
